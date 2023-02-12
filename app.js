@@ -1,3 +1,4 @@
+/*
 function random() {
     let rps = 0
     let num = Math.floor(Math.random() * 3) + 1;
@@ -32,3 +33,6 @@ function game() {
 
 game()
 
+*/
+play-score
+comp-score

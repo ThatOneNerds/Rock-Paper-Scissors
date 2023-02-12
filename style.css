@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    height: 100vh;
+}
+
+.Box { 
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.Main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D7FFAB;
+    flex-direction: column;
+    width: 500px;
+    height: 400px;
+}
