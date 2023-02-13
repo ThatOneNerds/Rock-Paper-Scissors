@@ -18,8 +18,24 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #D7FFAB;
+    background-color: #857F74;
     flex-direction: column;
     width: 500px;
     height: 400px;
+}
+
+button {
+    background-color: #CADF9E;
+    width: 65px;
+    height: 65px;
+    border: #CADF9E 1px;
+    border-radius:  50%;
+}
+
+button:hover {
+    background-color: #A4AC96;
+}
+
+#but {
+    font-size: 45px;
 }
